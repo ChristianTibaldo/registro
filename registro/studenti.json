@@ -1,0 +1,6358 @@
+[
+  {
+    "matricola": 111001,
+    "nome": "Christian",
+    "cognome": "Tibaldo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        10
+      ],
+      "storia": [
+        10
+      ],
+      "matematica": [
+        10
+      ],
+      "inglese": [
+        10
+      ],
+      "informatica": [
+        10
+      ],
+      "sistemi": [
+        10
+      ],
+      "tpsit": [
+        10
+      ],
+      "telecomunicazioni": [
+        10
+      ]
+    }
+  },
+  {
+    "matricola": 513272,
+    "nome": "Aurora",
+    "cognome": "Rossi",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        5,
+        2,
+        2,
+        3
+      ],
+      "storia": [
+        8,
+        2,
+        3,
+        2
+      ],
+      "matematica": [
+        4,
+        4,
+        7,
+        2
+      ],
+      "inglese": [
+        4,
+        8,
+        3,
+        8
+      ],
+      "informatica": [
+        6,
+        4,
+        2,
+        4
+      ],
+      "sistemi": [
+        8,
+        5,
+        5,
+        2
+      ],
+      "tpsit": [
+        8,
+        5,
+        9,
+        4
+      ],
+      "telecomunicazioni": [
+        7,
+        2,
+        8,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 562839,
+    "nome": "Beatrice",
+    "cognome": "Russo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        7,
+        9,
+        5,
+        4
+      ],
+      "storia": [
+        8,
+        6,
+        2,
+        9
+      ],
+      "matematica": [
+        6,
+        2,
+        3,
+        9
+      ],
+      "inglese": [
+        2,
+        5,
+        6,
+        9
+      ],
+      "informatica": [
+        2,
+        2,
+        8,
+        9
+      ],
+      "sistemi": [
+        2,
+        7,
+        2,
+        5
+      ],
+      "tpsit": [
+        6,
+        4,
+        8,
+        8
+      ],
+      "telecomunicazioni": [
+        2,
+        3,
+        7,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 359938,
+    "nome": "Camilla",
+    "cognome": "Colombo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        5,
+        2,
+        2,
+        6
+      ],
+      "storia": [
+        7,
+        5,
+        6,
+        8
+      ],
+      "matematica": [
+        2,
+        5,
+        5,
+        2
+      ],
+      "inglese": [
+        8,
+        2,
+        7,
+        9
+      ],
+      "informatica": [
+        8,
+        2,
+        5,
+        4
+      ],
+      "sistemi": [
+        2,
+        8,
+        6,
+        8
+      ],
+      "tpsit": [
+        3,
+        5,
+        5,
+        4
+      ],
+      "telecomunicazioni": [
+        8,
+        9,
+        2,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 462284,
+    "nome": "Sofia",
+    "cognome": "Esposito",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        8,
+        2,
+        2,
+        6
+      ],
+      "storia": [
+        7,
+        6,
+        6,
+        5
+      ],
+      "matematica": [
+        9,
+        5,
+        5,
+        8
+      ],
+      "inglese": [
+        9,
+        9,
+        6,
+        2
+      ],
+      "informatica": [
+        3,
+        2,
+        6,
+        3
+      ],
+      "sistemi": [
+        7,
+        7,
+        9,
+        9
+      ],
+      "tpsit": [
+        7,
+        2,
+        7,
+        8
+      ],
+      "telecomunicazioni": [
+        3,
+        2,
+        4,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 467199,
+    "nome": "Giulia",
+    "cognome": "Bianchi",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        2,
+        9,
+        3,
+        2
+      ],
+      "storia": [
+        9,
+        6,
+        4,
+        2
+      ],
+      "matematica": [
+        5,
+        4,
+        2,
+        5
+      ],
+      "inglese": [
+        6,
+        9,
+        4,
+        2
+      ],
+      "informatica": [
+        6,
+        7,
+        2,
+        9
+      ],
+      "sistemi": [
+        2,
+        5,
+        5,
+        6
+      ],
+      "tpsit": [
+        2,
+        7,
+        5,
+        9
+      ],
+      "telecomunicazioni": [
+        9,
+        2,
+        9,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 527672,
+    "nome": "Emma",
+    "cognome": "Ferrari",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        2,
+        9,
+        6,
+        5
+      ],
+      "storia": [
+        8,
+        2,
+        9,
+        8
+      ],
+      "matematica": [
+        4,
+        2,
+        2,
+        6
+      ],
+      "inglese": [
+        6,
+        2,
+        8,
+        2
+      ],
+      "informatica": [
+        6,
+        2,
+        5,
+        4
+      ],
+      "sistemi": [
+        6,
+        6,
+        8,
+        3
+      ],
+      "tpsit": [
+        7,
+        8,
+        8,
+        3
+      ],
+      "telecomunicazioni": [
+        7,
+        8,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 427008,
+    "nome": "Elena",
+    "cognome": "Romano",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        5,
+        3,
+        9,
+        5
+      ],
+      "storia": [
+        3,
+        2,
+        7,
+        8
+      ],
+      "matematica": [
+        3,
+        5,
+        2,
+        5
+      ],
+      "inglese": [
+        4,
+        3,
+        8,
+        3
+      ],
+      "informatica": [
+        2,
+        3,
+        2,
+        2
+      ],
+      "sistemi": [
+        8,
+        3,
+        7,
+        2
+      ],
+      "tpsit": [
+        2,
+        2,
+        4,
+        8
+      ],
+      "telecomunicazioni": [
+        3,
+        9,
+        2,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 652662,
+    "nome": "Alice",
+    "cognome": "Ricci",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        6,
+        9,
+        3,
+        6
+      ],
+      "storia": [
+        6,
+        2,
+        8,
+        9
+      ],
+      "matematica": [
+        4,
+        2,
+        5,
+        3
+      ],
+      "inglese": [
+        4,
+        2,
+        2,
+        2
+      ],
+      "informatica": [
+        8,
+        5,
+        4,
+        2
+      ],
+      "sistemi": [
+        9,
+        7,
+        9,
+        2
+      ],
+      "tpsit": [
+        9,
+        2,
+        4,
+        2
+      ],
+      "telecomunicazioni": [
+        2,
+        6,
+        6,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 498982,
+    "nome": "Martina",
+    "cognome": "Lombardi",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        4,
+        2,
+        2,
+        3
+      ],
+      "storia": [
+        7,
+        9,
+        9,
+        2
+      ],
+      "matematica": [
+        6,
+        2,
+        7,
+        9
+      ],
+      "inglese": [
+        8,
+        4,
+        8,
+        6
+      ],
+      "informatica": [
+        4,
+        5,
+        9,
+        5
+      ],
+      "sistemi": [
+        7,
+        6,
+        6,
+        7
+      ],
+      "tpsit": [
+        2,
+        2,
+        5,
+        7
+      ],
+      "telecomunicazioni": [
+        6,
+        3,
+        7,
+        5
+      ]
+    }
+  },
+  {
+    "matricola": 371997,
+    "nome": "Chiara",
+    "cognome": "Mancini",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        2,
+        4,
+        6,
+        4
+      ],
+      "storia": [
+        3,
+        7,
+        2,
+        2
+      ],
+      "matematica": [
+        9,
+        2,
+        4,
+        8
+      ],
+      "inglese": [
+        3,
+        3,
+        3,
+        6
+      ],
+      "informatica": [
+        8,
+        7,
+        4,
+        3
+      ],
+      "sistemi": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "tpsit": [
+        9,
+        8,
+        2,
+        4
+      ],
+      "telecomunicazioni": [
+        8,
+        2,
+        2,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 172445,
+    "nome": "Giorgia",
+    "cognome": "Marino",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        8,
+        7,
+        3,
+        2
+      ],
+      "storia": [
+        4,
+        2,
+        4,
+        7
+      ],
+      "matematica": [
+        2,
+        7,
+        2,
+        2
+      ],
+      "inglese": [
+        2,
+        9,
+        3,
+        3
+      ],
+      "informatica": [
+        2,
+        6,
+        9,
+        3
+      ],
+      "sistemi": [
+        6,
+        3,
+        5,
+        2
+      ],
+      "tpsit": [
+        2,
+        3,
+        4,
+        2
+      ],
+      "telecomunicazioni": [
+        9,
+        6,
+        5,
+        5
+      ]
+    }
+  },
+  {
+    "matricola": 144527,
+    "nome": "Greta",
+    "cognome": "Greco",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        2,
+        6,
+        3,
+        3
+      ],
+      "storia": [
+        2,
+        4,
+        2,
+        5
+      ],
+      "matematica": [
+        7,
+        5,
+        6,
+        5
+      ],
+      "inglese": [
+        7,
+        6,
+        3,
+        2
+      ],
+      "informatica": [
+        5,
+        9,
+        5,
+        2
+      ],
+      "sistemi": [
+        9,
+        9,
+        8,
+        2
+      ],
+      "tpsit": [
+        3,
+        7,
+        6,
+        9
+      ],
+      "telecomunicazioni": [
+        4,
+        6,
+        8,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 466057,
+    "nome": "Sara",
+    "cognome": "Bruno",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        5,
+        2,
+        9,
+        3
+      ],
+      "storia": [
+        8,
+        2,
+        9,
+        7
+      ],
+      "matematica": [
+        2,
+        5,
+        4,
+        4
+      ],
+      "inglese": [
+        5,
+        2,
+        2,
+        3
+      ],
+      "informatica": [
+        7,
+        4,
+        6,
+        9
+      ],
+      "sistemi": [
+        2,
+        7,
+        4,
+        5
+      ],
+      "tpsit": [
+        2,
+        6,
+        4,
+        8
+      ],
+      "telecomunicazioni": [
+        5,
+        6,
+        2,
+        5
+      ]
+    }
+  },
+  {
+    "matricola": 322233,
+    "nome": "Anna",
+    "cognome": "Conti",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        2,
+        2,
+        2,
+        3
+      ],
+      "storia": [
+        8,
+        8,
+        7,
+        8
+      ],
+      "matematica": [
+        6,
+        6,
+        8,
+        9
+      ],
+      "inglese": [
+        6,
+        2,
+        6,
+        8
+      ],
+      "informatica": [
+        9,
+        6,
+        7,
+        7
+      ],
+      "sistemi": [
+        6,
+        3,
+        2,
+        2
+      ],
+      "tpsit": [
+        8,
+        3,
+        4,
+        2
+      ],
+      "telecomunicazioni": [
+        4,
+        3,
+        6,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 613038,
+    "nome": "Francesca",
+    "cognome": "De Luca",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        7,
+        2,
+        9,
+        3
+      ],
+      "storia": [
+        7,
+        2,
+        7,
+        9
+      ],
+      "matematica": [
+        4,
+        2,
+        2,
+        2
+      ],
+      "inglese": [
+        4,
+        7,
+        7,
+        3
+      ],
+      "informatica": [
+        3,
+        5,
+        8,
+        3
+      ],
+      "sistemi": [
+        8,
+        3,
+        8,
+        7
+      ],
+      "tpsit": [
+        2,
+        9,
+        2,
+        9
+      ],
+      "telecomunicazioni": [
+        2,
+        3,
+        4,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 320546,
+    "nome": "Irene",
+    "cognome": "Cairo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        2,
+        5,
+        9,
+        2
+      ],
+      "storia": [
+        6,
+        2,
+        7,
+        8
+      ],
+      "matematica": [
+        2,
+        6,
+        4,
+        2
+      ],
+      "inglese": [
+        2,
+        3,
+        8,
+        6
+      ],
+      "informatica": [
+        4,
+        6,
+        5,
+        2
+      ],
+      "sistemi": [
+        5,
+        2,
+        2,
+        5
+      ],
+      "tpsit": [
+        4,
+        2,
+        2,
+        9
+      ],
+      "telecomunicazioni": [
+        3,
+        5,
+        6,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 271475,
+    "nome": "Valeria",
+    "cognome": "Costa",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        8,
+        9,
+        8,
+        2
+      ],
+      "storia": [
+        6,
+        2,
+        7,
+        7
+      ],
+      "matematica": [
+        8,
+        4,
+        7,
+        7
+      ],
+      "inglese": [
+        6,
+        6,
+        2,
+        5
+      ],
+      "informatica": [
+        7,
+        6,
+        8,
+        2
+      ],
+      "sistemi": [
+        4,
+        3,
+        4,
+        3
+      ],
+      "tpsit": [
+        2,
+        6,
+        7,
+        2
+      ],
+      "telecomunicazioni": [
+        8,
+        2,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 413502,
+    "nome": "Nicole",
+    "cognome": "Fontana",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        8,
+        2,
+        7,
+        3
+      ],
+      "storia": [
+        3,
+        8,
+        7,
+        3
+      ],
+      "matematica": [
+        8,
+        9,
+        3,
+        2
+      ],
+      "inglese": [
+        6,
+        4,
+        2,
+        9
+      ],
+      "informatica": [
+        2,
+        9,
+        8,
+        3
+      ],
+      "sistemi": [
+        7,
+        9,
+        4,
+        8
+      ],
+      "tpsit": [
+        8,
+        6,
+        7,
+        3
+      ],
+      "telecomunicazioni": [
+        4,
+        8,
+        6,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 246951,
+    "nome": "Giorgia",
+    "cognome": "Esposito",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        2,
+        9,
+        4,
+        7
+      ],
+      "storia": [
+        9,
+        4,
+        3,
+        3
+      ],
+      "matematica": [
+        2,
+        5,
+        6,
+        7
+      ],
+      "inglese": [
+        2,
+        9,
+        6,
+        2
+      ],
+      "informatica": [
+        4,
+        5,
+        7,
+        2
+      ],
+      "sistemi": [
+        4,
+        3,
+        2,
+        2
+      ],
+      "tpsit": [
+        6,
+        5,
+        3,
+        4
+      ],
+      "telecomunicazioni": [
+        6,
+        5,
+        6,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 530307,
+    "nome": "Elisa",
+    "cognome": "Bellanova",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        2,
+        4,
+        2,
+        3
+      ],
+      "storia": [
+        6,
+        5,
+        3,
+        2
+      ],
+      "matematica": [
+        5,
+        3,
+        4,
+        7
+      ],
+      "inglese": [
+        4,
+        4,
+        3,
+        4
+      ],
+      "informatica": [
+        5,
+        2,
+        2,
+        6
+      ],
+      "sistemi": [
+        5,
+        2,
+        7,
+        8
+      ],
+      "tpsit": [
+        9,
+        2,
+        2,
+        5
+      ],
+      "telecomunicazioni": [
+        8,
+        4,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 294568,
+    "nome": "Federica",
+    "cognome": "Toscano",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        8,
+        6,
+        8,
+        3
+      ],
+      "storia": [
+        4,
+        2,
+        2,
+        5
+      ],
+      "matematica": [
+        2,
+        6,
+        8,
+        2
+      ],
+      "inglese": [
+        5,
+        4,
+        2,
+        3
+      ],
+      "informatica": [
+        5,
+        3,
+        9,
+        5
+      ],
+      "sistemi": [
+        2,
+        2,
+        6,
+        6
+      ],
+      "tpsit": [
+        7,
+        2,
+        2,
+        8
+      ],
+      "telecomunicazioni": [
+        2,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 215489,
+    "nome": "Roberta",
+    "cognome": "Lombardo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        2,
+        7,
+        7,
+        2
+      ],
+      "storia": [
+        3,
+        2,
+        4,
+        4
+      ],
+      "matematica": [
+        2,
+        2,
+        5,
+        8
+      ],
+      "inglese": [
+        6,
+        2,
+        4,
+        2
+      ],
+      "informatica": [
+        7,
+        7,
+        9,
+        6
+      ],
+      "sistemi": [
+        5,
+        5,
+        7,
+        3
+      ],
+      "tpsit": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "telecomunicazioni": [
+        2,
+        3,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 481701,
+    "nome": "Lucia",
+    "cognome": "Campano",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        2,
+        2,
+        2,
+        8
+      ],
+      "storia": [
+        2,
+        3,
+        2,
+        2
+      ],
+      "matematica": [
+        3,
+        2,
+        2,
+        5
+      ],
+      "inglese": [
+        2,
+        2,
+        6,
+        2
+      ],
+      "informatica": [
+        4,
+        8,
+        7,
+        2
+      ],
+      "sistemi": [
+        6,
+        8,
+        5,
+        4
+      ],
+      "tpsit": [
+        4,
+        4,
+        4,
+        7
+      ],
+      "telecomunicazioni": [
+        9,
+        2,
+        5,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 455963,
+    "nome": "Alessandra",
+    "cognome": "Pugliese",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        3,
+        8,
+        5,
+        2
+      ],
+      "storia": [
+        2,
+        4,
+        2,
+        9
+      ],
+      "matematica": [
+        2,
+        7,
+        3,
+        9
+      ],
+      "inglese": [
+        2,
+        2,
+        3,
+        2
+      ],
+      "informatica": [
+        3,
+        2,
+        9,
+        5
+      ],
+      "sistemi": [
+        7,
+        2,
+        4,
+        4
+      ],
+      "tpsit": [
+        7,
+        7,
+        8,
+        5
+      ],
+      "telecomunicazioni": [
+        8,
+        2,
+        3,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 190196,
+    "nome": "Ilaria",
+    "cognome": "Veneto",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        7,
+        2,
+        6,
+        9
+      ],
+      "storia": [
+        9,
+        5,
+        3,
+        9
+      ],
+      "matematica": [
+        7,
+        9,
+        6,
+        2
+      ],
+      "inglese": [
+        7,
+        9,
+        4,
+        8
+      ],
+      "informatica": [
+        2,
+        5,
+        5,
+        2
+      ],
+      "sistemi": [
+        3,
+        3,
+        2,
+        2
+      ],
+      "tpsit": [
+        2,
+        9,
+        9,
+        2
+      ],
+      "telecomunicazioni": [
+        3,
+        7,
+        4,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 303451,
+    "nome": "Samantha",
+    "cognome": "Calabrese",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        4,
+        3,
+        2,
+        4
+      ],
+      "storia": [
+        6,
+        2,
+        5,
+        4
+      ],
+      "matematica": [
+        5,
+        9,
+        7,
+        8
+      ],
+      "inglese": [
+        5,
+        2,
+        2,
+        3
+      ],
+      "informatica": [
+        2,
+        2,
+        2,
+        4
+      ],
+      "sistemi": [
+        2,
+        3,
+        9,
+        2
+      ],
+      "tpsit": [
+        7,
+        2,
+        5,
+        2
+      ],
+      "telecomunicazioni": [
+        4,
+        7,
+        3,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 379320,
+    "nome": "Veronica",
+    "cognome": "Siciliano",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        2,
+        5,
+        8,
+        7
+      ],
+      "storia": [
+        5,
+        5,
+        3,
+        4
+      ],
+      "matematica": [
+        6,
+        8,
+        3,
+        5
+      ],
+      "inglese": [
+        3,
+        7,
+        4,
+        2
+      ],
+      "informatica": [
+        2,
+        4,
+        5,
+        5
+      ],
+      "sistemi": [
+        8,
+        9,
+        7,
+        3
+      ],
+      "tpsit": [
+        5,
+        2,
+        2,
+        2
+      ],
+      "telecomunicazioni": [
+        3,
+        5,
+        8,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 124860,
+    "nome": "Alessia",
+    "cognome": "Piemontese",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        9,
+        2,
+        2,
+        6
+      ],
+      "storia": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "matematica": [
+        9,
+        2,
+        4,
+        5
+      ],
+      "inglese": [
+        2,
+        8,
+        2,
+        2
+      ],
+      "informatica": [
+        6,
+        3,
+        8,
+        6
+      ],
+      "sistemi": [
+        7,
+        5,
+        2,
+        5
+      ],
+      "tpsit": [
+        3,
+        3,
+        2,
+        7
+      ],
+      "telecomunicazioni": [
+        2,
+        7,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 476193,
+    "nome": "Silvia",
+    "cognome": "Sardo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        3,
+        7,
+        7,
+        7
+      ],
+      "storia": [
+        2,
+        4,
+        2,
+        7
+      ],
+      "matematica": [
+        2,
+        4,
+        9,
+        5
+      ],
+      "inglese": [
+        4,
+        8,
+        2,
+        2
+      ],
+      "informatica": [
+        3,
+        2,
+        2,
+        2
+      ],
+      "sistemi": [
+        7,
+        2,
+        9,
+        5
+      ],
+      "tpsit": [
+        2,
+        2,
+        2,
+        7
+      ],
+      "telecomunicazioni": [
+        2,
+        7,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 371807,
+    "nome": "Noemi",
+    "cognome": "Marchigiano",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        4,
+        2,
+        2,
+        6
+      ],
+      "storia": [
+        5,
+        5,
+        7,
+        3
+      ],
+      "matematica": [
+        8,
+        2,
+        8,
+        2
+      ],
+      "inglese": [
+        9,
+        9,
+        9,
+        2
+      ],
+      "informatica": [
+        5,
+        8,
+        5,
+        6
+      ],
+      "sistemi": [
+        2,
+        7,
+        6,
+        3
+      ],
+      "tpsit": [
+        3,
+        2,
+        7,
+        2
+      ],
+      "telecomunicazioni": [
+        4,
+        8,
+        4,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 635804,
+    "nome": "Ambra",
+    "cognome": "Fabbri",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        3,
+        7,
+        9,
+        2
+      ],
+      "storia": [
+        6,
+        4,
+        2,
+        8
+      ],
+      "matematica": [
+        2,
+        2,
+        4,
+        9
+      ],
+      "inglese": [
+        2,
+        5,
+        2,
+        9
+      ],
+      "informatica": [
+        8,
+        8,
+        3,
+        3
+      ],
+      "sistemi": [
+        2,
+        5,
+        4,
+        9
+      ],
+      "tpsit": [
+        2,
+        2,
+        8,
+        6
+      ],
+      "telecomunicazioni": [
+        5,
+        4,
+        9,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 284001,
+    "nome": "Ginevra",
+    "cognome": "Ferrari",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        4,
+        4,
+        5,
+        4
+      ],
+      "storia": [
+        7,
+        7,
+        7,
+        2
+      ],
+      "matematica": [
+        7,
+        5,
+        9,
+        8
+      ],
+      "inglese": [
+        2,
+        3,
+        9,
+        2
+      ],
+      "informatica": [
+        6,
+        8,
+        6,
+        2
+      ],
+      "sistemi": [
+        2,
+        9,
+        2,
+        3
+      ],
+      "tpsit": [
+        2,
+        8,
+        9,
+        8
+      ],
+      "telecomunicazioni": [
+        2,
+        7,
+        6,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 536705,
+    "nome": "Ludovica",
+    "cognome": "Rossi (rosso)",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        2,
+        3,
+        5,
+        3
+      ],
+      "storia": [
+        9,
+        3,
+        5,
+        7
+      ],
+      "matematica": [
+        8,
+        4,
+        6,
+        2
+      ],
+      "inglese": [
+        8,
+        9,
+        9,
+        9
+      ],
+      "informatica": [
+        4,
+        9,
+        8,
+        3
+      ],
+      "sistemi": [
+        9,
+        2,
+        9,
+        5
+      ],
+      "tpsit": [
+        2,
+        2,
+        7,
+        5
+      ],
+      "telecomunicazioni": [
+        7,
+        8,
+        2,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 374225,
+    "nome": "Rebecca",
+    "cognome": "Bianchi (bianco)",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        9,
+        8,
+        9,
+        7
+      ],
+      "storia": [
+        2,
+        4,
+        5,
+        5
+      ],
+      "matematica": [
+        4,
+        7,
+        4,
+        9
+      ],
+      "inglese": [
+        5,
+        2,
+        7,
+        6
+      ],
+      "informatica": [
+        4,
+        7,
+        5,
+        4
+      ],
+      "sistemi": [
+        5,
+        4,
+        8,
+        2
+      ],
+      "tpsit": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "telecomunicazioni": [
+        2,
+        3,
+        4,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 348782,
+    "nome": "Martina",
+    "cognome": "Barbieri",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        6,
+        6,
+        9,
+        3
+      ],
+      "storia": [
+        2,
+        9,
+        4,
+        4
+      ],
+      "matematica": [
+        4,
+        4,
+        3,
+        2
+      ],
+      "inglese": [
+        3,
+        2,
+        5,
+        3
+      ],
+      "informatica": [
+        5,
+        9,
+        9,
+        5
+      ],
+      "sistemi": [
+        2,
+        2,
+        4,
+        7
+      ],
+      "tpsit": [
+        9,
+        9,
+        9,
+        4
+      ],
+      "telecomunicazioni": [
+        2,
+        2,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 602955,
+    "nome": "Cecilia",
+    "cognome": "Sartori",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        3,
+        2,
+        2,
+        9
+      ],
+      "storia": [
+        2,
+        2,
+        7,
+        3
+      ],
+      "matematica": [
+        2,
+        7,
+        4,
+        9
+      ],
+      "inglese": [
+        9,
+        7,
+        8,
+        5
+      ],
+      "informatica": [
+        7,
+        7,
+        4,
+        3
+      ],
+      "sistemi": [
+        7,
+        6,
+        4,
+        8
+      ],
+      "tpsit": [
+        4,
+        2,
+        4,
+        9
+      ],
+      "telecomunicazioni": [
+        7,
+        2,
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 343917,
+    "nome": "Eleonora",
+    "cognome": "Fattori",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        6,
+        4,
+        4,
+        5
+      ],
+      "storia": [
+        2,
+        2,
+        4,
+        5
+      ],
+      "matematica": [
+        9,
+        4,
+        3,
+        5
+      ],
+      "inglese": [
+        8,
+        8,
+        5,
+        9
+      ],
+      "informatica": [
+        4,
+        8,
+        4,
+        8
+      ],
+      "sistemi": [
+        2,
+        7,
+        2,
+        8
+      ],
+      "tpsit": [
+        3,
+        5,
+        8,
+        9
+      ],
+      "telecomunicazioni": [
+        9,
+        2,
+        6,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 385969,
+    "nome": "Cristina",
+    "cognome": "Molinari",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        5,
+        2,
+        2,
+        2
+      ],
+      "storia": [
+        6,
+        2,
+        6,
+        3
+      ],
+      "matematica": [
+        2,
+        7,
+        9,
+        2
+      ],
+      "inglese": [
+        5,
+        2,
+        9,
+        3
+      ],
+      "informatica": [
+        5,
+        9,
+        5,
+        9
+      ],
+      "sistemi": [
+        7,
+        2,
+        3,
+        6
+      ],
+      "tpsit": [
+        5,
+        2,
+        6,
+        8
+      ],
+      "telecomunicazioni": [
+        2,
+        5,
+        4,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 486972,
+    "nome": "Gaia",
+    "cognome": "Fornari",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        2,
+        3,
+        7,
+        2
+      ],
+      "storia": [
+        5,
+        2,
+        4,
+        2
+      ],
+      "matematica": [
+        8,
+        2,
+        5,
+        7
+      ],
+      "inglese": [
+        3,
+        2,
+        8,
+        2
+      ],
+      "informatica": [
+        3,
+        5,
+        3,
+        2
+      ],
+      "sistemi": [
+        6,
+        5,
+        2,
+        4
+      ],
+      "tpsit": [
+        4,
+        5,
+        7,
+        4
+      ],
+      "telecomunicazioni": [
+        6,
+        2,
+        3,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 563789,
+    "nome": "Arianna",
+    "cognome": "Pastori",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        2,
+        2,
+        2,
+        6
+      ],
+      "storia": [
+        5,
+        9,
+        6,
+        6
+      ],
+      "matematica": [
+        5,
+        3,
+        7,
+        2
+      ],
+      "inglese": [
+        5,
+        7,
+        2,
+        2
+      ],
+      "informatica": [
+        4,
+        6,
+        7,
+        5
+      ],
+      "sistemi": [
+        2,
+        2,
+        6,
+        5
+      ],
+      "tpsit": [
+        8,
+        2,
+        6,
+        3
+      ],
+      "telecomunicazioni": [
+        2,
+        8,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 315892,
+    "nome": "Aurora",
+    "cognome": "Rossi (rosso)",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        5,
+        5,
+        6,
+        4
+      ],
+      "storia": [
+        5,
+        4,
+        2,
+        2
+      ],
+      "matematica": [
+        2,
+        4,
+        7,
+        3
+      ],
+      "inglese": [
+        4,
+        3,
+        2,
+        4
+      ],
+      "informatica": [
+        2,
+        5,
+        4,
+        9
+      ],
+      "sistemi": [
+        2,
+        2,
+        2,
+        3
+      ],
+      "tpsit": [
+        9,
+        5,
+        2,
+        3
+      ],
+      "telecomunicazioni": [
+        5,
+        4,
+        4,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 291420,
+    "nome": "Beatrice",
+    "cognome": "Bianchi (bianco)",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        7,
+        2,
+        9,
+        9
+      ],
+      "storia": [
+        3,
+        9,
+        2,
+        7
+      ],
+      "matematica": [
+        8,
+        3,
+        3,
+        9
+      ],
+      "inglese": [
+        2,
+        2,
+        4,
+        8
+      ],
+      "informatica": [
+        8,
+        2,
+        6,
+        4
+      ],
+      "sistemi": [
+        7,
+        2,
+        6,
+        2
+      ],
+      "tpsit": [
+        2,
+        2,
+        5,
+        9
+      ],
+      "telecomunicazioni": [
+        8,
+        9,
+        4,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 149445,
+    "nome": "Camilla",
+    "cognome": "Nero",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        2,
+        5,
+        2,
+        2
+      ],
+      "storia": [
+        7,
+        9,
+        2,
+        5
+      ],
+      "matematica": [
+        2,
+        4,
+        4,
+        2
+      ],
+      "inglese": [
+        2,
+        9,
+        8,
+        2
+      ],
+      "informatica": [
+        2,
+        8,
+        2,
+        2
+      ],
+      "sistemi": [
+        7,
+        3,
+        2,
+        7
+      ],
+      "tpsit": [
+        8,
+        5,
+        7,
+        2
+      ],
+      "telecomunicazioni": [
+        6,
+        3,
+        9,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 289733,
+    "nome": "Sofia",
+    "cognome": "Bruno",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        9,
+        9,
+        6,
+        8
+      ],
+      "storia": [
+        9,
+        2,
+        5,
+        5
+      ],
+      "matematica": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "inglese": [
+        5,
+        2,
+        4,
+        5
+      ],
+      "informatica": [
+        5,
+        4,
+        2,
+        9
+      ],
+      "sistemi": [
+        8,
+        3,
+        2,
+        6
+      ],
+      "tpsit": [
+        5,
+        2,
+        2,
+        2
+      ],
+      "telecomunicazioni": [
+        7,
+        8,
+        8,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 526452,
+    "nome": "Giulia",
+    "cognome": "Biondi",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        7,
+        2,
+        2,
+        5
+      ],
+      "storia": [
+        5,
+        2,
+        3,
+        6
+      ],
+      "matematica": [
+        3,
+        2,
+        6,
+        3
+      ],
+      "inglese": [
+        6,
+        2,
+        6,
+        8
+      ],
+      "informatica": [
+        7,
+        3,
+        8,
+        5
+      ],
+      "sistemi": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "tpsit": [
+        6,
+        2,
+        7,
+        7
+      ],
+      "telecomunicazioni": [
+        3,
+        6,
+        8,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 641046,
+    "nome": "Emma",
+    "cognome": "Russo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        8,
+        7,
+        6,
+        6
+      ],
+      "storia": [
+        2,
+        6,
+        2,
+        2
+      ],
+      "matematica": [
+        4,
+        2,
+        7,
+        9
+      ],
+      "inglese": [
+        8,
+        6,
+        2,
+        2
+      ],
+      "informatica": [
+        5,
+        5,
+        9,
+        3
+      ],
+      "sistemi": [
+        2,
+        8,
+        7,
+        9
+      ],
+      "tpsit": [
+        3,
+        5,
+        2,
+        4
+      ],
+      "telecomunicazioni": [
+        4,
+        2,
+        3,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 501011,
+    "nome": "Elena",
+    "cognome": "Piccolo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        7,
+        4,
+        7,
+        7
+      ],
+      "storia": [
+        2,
+        7,
+        2,
+        5
+      ],
+      "matematica": [
+        4,
+        5,
+        4,
+        2
+      ],
+      "inglese": [
+        2,
+        2,
+        2,
+        7
+      ],
+      "informatica": [
+        2,
+        3,
+        6,
+        8
+      ],
+      "sistemi": [
+        9,
+        2,
+        2,
+        7
+      ],
+      "tpsit": [
+        5,
+        8,
+        6,
+        3
+      ],
+      "telecomunicazioni": [
+        2,
+        7,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 408505,
+    "nome": "Alice",
+    "cognome": "Grande",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        7,
+        2,
+        5,
+        6
+      ],
+      "storia": [
+        2,
+        4,
+        6,
+        7
+      ],
+      "matematica": [
+        4,
+        8,
+        2,
+        2
+      ],
+      "inglese": [
+        5,
+        9,
+        5,
+        7
+      ],
+      "informatica": [
+        3,
+        4,
+        2,
+        3
+      ],
+      "sistemi": [
+        8,
+        2,
+        2,
+        8
+      ],
+      "tpsit": [
+        8,
+        9,
+        4,
+        8
+      ],
+      "telecomunicazioni": [
+        6,
+        7,
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 388039,
+    "nome": "Martina",
+    "cognome": "Gentile",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        6,
+        5,
+        3,
+        8
+      ],
+      "storia": [
+        2,
+        2,
+        2,
+        7
+      ],
+      "matematica": [
+        2,
+        2,
+        2,
+        6
+      ],
+      "inglese": [
+        9,
+        3,
+        2,
+        3
+      ],
+      "informatica": [
+        2,
+        2,
+        2,
+        4
+      ],
+      "sistemi": [
+        2,
+        6,
+        5,
+        9
+      ],
+      "tpsit": [
+        9,
+        7,
+        9,
+        6
+      ],
+      "telecomunicazioni": [
+        2,
+        6,
+        3,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 566159,
+    "nome": "Alessandro",
+    "cognome": "Forte",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        4,
+        9,
+        2,
+        6
+      ],
+      "storia": [
+        7,
+        2,
+        2,
+        7
+      ],
+      "matematica": [
+        9,
+        2,
+        2,
+        5
+      ],
+      "inglese": [
+        9,
+        3,
+        2,
+        2
+      ],
+      "informatica": [
+        7,
+        2,
+        8,
+        6
+      ],
+      "sistemi": [
+        3,
+        9,
+        3,
+        9
+      ],
+      "tpsit": [
+        2,
+        8,
+        2,
+        9
+      ],
+      "telecomunicazioni": [
+        7,
+        8,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 288525,
+    "nome": "Marco",
+    "cognome": "Coppola",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        6,
+        6,
+        6,
+        2
+      ],
+      "storia": [
+        2,
+        7,
+        2,
+        2
+      ],
+      "matematica": [
+        4,
+        6,
+        5,
+        6
+      ],
+      "inglese": [
+        9,
+        2,
+        3,
+        5
+      ],
+      "informatica": [
+        6,
+        5,
+        3,
+        2
+      ],
+      "sistemi": [
+        2,
+        9,
+        8,
+        2
+      ],
+      "tpsit": [
+        8,
+        2,
+        7,
+        3
+      ],
+      "telecomunicazioni": [
+        7,
+        2,
+        6,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 179623,
+    "nome": "Andrea",
+    "cognome": "Esposito",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        7,
+        3,
+        6,
+        2
+      ],
+      "storia": [
+        6,
+        2,
+        6,
+        4
+      ],
+      "matematica": [
+        9,
+        6,
+        3,
+        3
+      ],
+      "inglese": [
+        2,
+        5,
+        4,
+        3
+      ],
+      "informatica": [
+        5,
+        4,
+        2,
+        5
+      ],
+      "sistemi": [
+        3,
+        4,
+        5,
+        8
+      ],
+      "tpsit": [
+        8,
+        8,
+        2,
+        2
+      ],
+      "telecomunicazioni": [
+        8,
+        7,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 381631,
+    "nome": "Lorenzo",
+    "cognome": "Bellucci",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        2,
+        8,
+        2,
+        2
+      ],
+      "storia": [
+        2,
+        5,
+        2,
+        2
+      ],
+      "matematica": [
+        9,
+        6,
+        2,
+        2
+      ],
+      "inglese": [
+        3,
+        5,
+        4,
+        4
+      ],
+      "informatica": [
+        2,
+        4,
+        2,
+        8
+      ],
+      "sistemi": [
+        7,
+        9,
+        8,
+        6
+      ],
+      "tpsit": [
+        3,
+        4,
+        6,
+        2
+      ],
+      "telecomunicazioni": [
+        6,
+        2,
+        3,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 342205,
+    "nome": "Francesco",
+    "cognome": "Esposito",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        7,
+        7,
+        2,
+        2
+      ],
+      "storia": [
+        7,
+        8,
+        2,
+        2
+      ],
+      "matematica": [
+        2,
+        8,
+        3,
+        8
+      ],
+      "inglese": [
+        4,
+        2,
+        2,
+        3
+      ],
+      "informatica": [
+        3,
+        6,
+        5,
+        9
+      ],
+      "sistemi": [
+        4,
+        8,
+        3,
+        2
+      ],
+      "tpsit": [
+        8,
+        2,
+        2,
+        6
+      ],
+      "telecomunicazioni": [
+        2,
+        8,
+        8,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 458185,
+    "nome": "Matteo",
+    "cognome": "Colombo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        9,
+        4,
+        4,
+        4
+      ],
+      "storia": [
+        2,
+        9,
+        3,
+        7
+      ],
+      "matematica": [
+        7,
+        9,
+        2,
+        7
+      ],
+      "inglese": [
+        6,
+        8,
+        4,
+        2
+      ],
+      "informatica": [
+        5,
+        2,
+        2,
+        6
+      ],
+      "sistemi": [
+        6,
+        2,
+        7,
+        8
+      ],
+      "tpsit": [
+        6,
+        8,
+        6,
+        8
+      ],
+      "telecomunicazioni": [
+        6,
+        4,
+        8,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 573508,
+    "nome": "Luca",
+    "cognome": "Esposito",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        7,
+        5,
+        2,
+        2
+      ],
+      "storia": [
+        8,
+        4,
+        5,
+        2
+      ],
+      "matematica": [
+        4,
+        2,
+        7,
+        9
+      ],
+      "inglese": [
+        3,
+        9,
+        2,
+        8
+      ],
+      "informatica": [
+        6,
+        5,
+        3,
+        9
+      ],
+      "sistemi": [
+        5,
+        8,
+        2,
+        2
+      ],
+      "tpsit": [
+        9,
+        4,
+        8,
+        4
+      ],
+      "telecomunicazioni": [
+        5,
+        3,
+        8,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 436240,
+    "nome": "Daniele",
+    "cognome": "Russo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        4,
+        6,
+        7,
+        3
+      ],
+      "storia": [
+        6,
+        5,
+        9,
+        2
+      ],
+      "matematica": [
+        6,
+        2,
+        2,
+        6
+      ],
+      "inglese": [
+        2,
+        9,
+        2,
+        8
+      ],
+      "informatica": [
+        2,
+        8,
+        7,
+        2
+      ],
+      "sistemi": [
+        7,
+        4,
+        2,
+        7
+      ],
+      "tpsit": [
+        9,
+        8,
+        2,
+        3
+      ],
+      "telecomunicazioni": [
+        2,
+        8,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 403864,
+    "nome": "Gabriele",
+    "cognome": "Esposito",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        2,
+        2,
+        6,
+        4
+      ],
+      "storia": [
+        2,
+        8,
+        8,
+        5
+      ],
+      "matematica": [
+        8,
+        2,
+        5,
+        6
+      ],
+      "inglese": [
+        2,
+        5,
+        7,
+        7
+      ],
+      "informatica": [
+        3,
+        9,
+        2,
+        2
+      ],
+      "sistemi": [
+        4,
+        3,
+        3,
+        3
+      ],
+      "tpsit": [
+        2,
+        8,
+        8,
+        2
+      ],
+      "telecomunicazioni": [
+        5,
+        3,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 193401,
+    "nome": "Riccardo",
+    "cognome": "Bianchi",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        3,
+        4,
+        8,
+        8
+      ],
+      "storia": [
+        6,
+        6,
+        4,
+        6
+      ],
+      "matematica": [
+        9,
+        6,
+        2,
+        2
+      ],
+      "inglese": [
+        2,
+        6,
+        6,
+        3
+      ],
+      "informatica": [
+        9,
+        2,
+        9,
+        6
+      ],
+      "sistemi": [
+        4,
+        4,
+        8,
+        3
+      ],
+      "tpsit": [
+        5,
+        4,
+        2,
+        3
+      ],
+      "telecomunicazioni": [
+        2,
+        6,
+        7,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 287688,
+    "nome": "Nicolò",
+    "cognome": "Russo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        9,
+        6,
+        7,
+        8
+      ],
+      "storia": [
+        4,
+        2,
+        4,
+        2
+      ],
+      "matematica": [
+        2,
+        3,
+        2,
+        2
+      ],
+      "inglese": [
+        4,
+        5,
+        5,
+        3
+      ],
+      "informatica": [
+        9,
+        5,
+        2,
+        5
+      ],
+      "sistemi": [
+        2,
+        4,
+        6,
+        2
+      ],
+      "tpsit": [
+        7,
+        2,
+        8,
+        8
+      ],
+      "telecomunicazioni": [
+        5,
+        9,
+        4,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 145797,
+    "nome": "Davide",
+    "cognome": "Rossi",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        2,
+        2,
+        2,
+        7
+      ],
+      "storia": [
+        2,
+        2,
+        9,
+        6
+      ],
+      "matematica": [
+        6,
+        3,
+        9,
+        3
+      ],
+      "inglese": [
+        5,
+        6,
+        2,
+        9
+      ],
+      "informatica": [
+        9,
+        4,
+        3,
+        9
+      ],
+      "sistemi": [
+        3,
+        2,
+        9,
+        2
+      ],
+      "tpsit": [
+        9,
+        4,
+        2,
+        9
+      ],
+      "telecomunicazioni": [
+        4,
+        6,
+        5,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 616630,
+    "nome": "Simone",
+    "cognome": "Russo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        6,
+        2,
+        4,
+        3
+      ],
+      "storia": [
+        4,
+        7,
+        5,
+        5
+      ],
+      "matematica": [
+        4,
+        8,
+        5,
+        8
+      ],
+      "inglese": [
+        4,
+        2,
+        7,
+        5
+      ],
+      "informatica": [
+        4,
+        4,
+        9,
+        2
+      ],
+      "sistemi": [
+        6,
+        2,
+        4,
+        6
+      ],
+      "tpsit": [
+        2,
+        5,
+        9,
+        8
+      ],
+      "telecomunicazioni": [
+        5,
+        3,
+        5,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 341281,
+    "nome": "Fabio",
+    "cognome": "Colombo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        2,
+        7,
+        9,
+        9
+      ],
+      "storia": [
+        8,
+        8,
+        5,
+        2
+      ],
+      "matematica": [
+        5,
+        2,
+        6,
+        9
+      ],
+      "inglese": [
+        2,
+        2,
+        6,
+        6
+      ],
+      "informatica": [
+        6,
+        7,
+        3,
+        9
+      ],
+      "sistemi": [
+        8,
+        9,
+        2,
+        8
+      ],
+      "tpsit": [
+        8,
+        2,
+        5,
+        2
+      ],
+      "telecomunicazioni": [
+        2,
+        9,
+        3,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 640790,
+    "nome": "Alberto",
+    "cognome": "Esposito",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "storia": [
+        7,
+        6,
+        7,
+        2
+      ],
+      "matematica": [
+        6,
+        3,
+        2,
+        5
+      ],
+      "inglese": [
+        2,
+        5,
+        5,
+        2
+      ],
+      "informatica": [
+        2,
+        3,
+        6,
+        7
+      ],
+      "sistemi": [
+        3,
+        6,
+        5,
+        3
+      ],
+      "tpsit": [
+        7,
+        4,
+        4,
+        4
+      ],
+      "telecomunicazioni": [
+        4,
+        9,
+        3,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 135944,
+    "nome": "Gianmarco",
+    "cognome": "Bianchi",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        2,
+        2,
+        8,
+        3
+      ],
+      "storia": [
+        2,
+        8,
+        9,
+        9
+      ],
+      "matematica": [
+        4,
+        8,
+        2,
+        7
+      ],
+      "inglese": [
+        4,
+        7,
+        4,
+        5
+      ],
+      "informatica": [
+        7,
+        2,
+        7,
+        2
+      ],
+      "sistemi": [
+        5,
+        7,
+        2,
+        9
+      ],
+      "tpsit": [
+        2,
+        2,
+        4,
+        2
+      ],
+      "telecomunicazioni": [
+        3,
+        4,
+        6,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 346124,
+    "nome": "Enrico",
+    "cognome": "Ferrari",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        6,
+        2,
+        7,
+        2
+      ],
+      "storia": [
+        8,
+        9,
+        7,
+        5
+      ],
+      "matematica": [
+        2,
+        8,
+        2,
+        7
+      ],
+      "inglese": [
+        2,
+        4,
+        2,
+        9
+      ],
+      "informatica": [
+        2,
+        4,
+        3,
+        6
+      ],
+      "sistemi": [
+        5,
+        2,
+        6,
+        6
+      ],
+      "tpsit": [
+        7,
+        2,
+        5,
+        6
+      ],
+      "telecomunicazioni": [
+        8,
+        5,
+        2,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 343774,
+    "nome": "Mattia",
+    "cognome": "Romano",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        8,
+        6,
+        9,
+        6
+      ],
+      "storia": [
+        6,
+        5,
+        2,
+        3
+      ],
+      "matematica": [
+        8,
+        4,
+        2,
+        4
+      ],
+      "inglese": [
+        2,
+        2,
+        9,
+        2
+      ],
+      "informatica": [
+        4,
+        4,
+        6,
+        8
+      ],
+      "sistemi": [
+        5,
+        2,
+        2,
+        3
+      ],
+      "tpsit": [
+        9,
+        5,
+        6,
+        7
+      ],
+      "telecomunicazioni": [
+        9,
+        3,
+        6,
+        5
+      ]
+    }
+  },
+  {
+    "matricola": 404233,
+    "nome": "Edoardo",
+    "cognome": "Ricci",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        9,
+        2,
+        2,
+        2
+      ],
+      "storia": [
+        2,
+        2,
+        2,
+        6
+      ],
+      "matematica": [
+        9,
+        5,
+        4,
+        2
+      ],
+      "inglese": [
+        2,
+        5,
+        6,
+        2
+      ],
+      "informatica": [
+        6,
+        2,
+        7,
+        2
+      ],
+      "sistemi": [
+        5,
+        4,
+        8,
+        2
+      ],
+      "tpsit": [
+        4,
+        9,
+        3,
+        2
+      ],
+      "telecomunicazioni": [
+        8,
+        2,
+        4,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 160639,
+    "nome": "Tommaso",
+    "cognome": "Lombardi",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        9,
+        3,
+        3,
+        2
+      ],
+      "storia": [
+        9,
+        2,
+        5,
+        8
+      ],
+      "matematica": [
+        2,
+        7,
+        6,
+        7
+      ],
+      "inglese": [
+        2,
+        2,
+        4,
+        6
+      ],
+      "informatica": [
+        5,
+        7,
+        3,
+        9
+      ],
+      "sistemi": [
+        2,
+        3,
+        3,
+        2
+      ],
+      "tpsit": [
+        3,
+        7,
+        2,
+        5
+      ],
+      "telecomunicazioni": [
+        9,
+        3,
+        6,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 473210,
+    "nome": "Alessio",
+    "cognome": "Mancini",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        4,
+        2,
+        9,
+        8
+      ],
+      "storia": [
+        2,
+        2,
+        5,
+        4
+      ],
+      "matematica": [
+        7,
+        2,
+        5,
+        8
+      ],
+      "inglese": [
+        7,
+        2,
+        4,
+        5
+      ],
+      "informatica": [
+        2,
+        4,
+        9,
+        8
+      ],
+      "sistemi": [
+        7,
+        8,
+        3,
+        3
+      ],
+      "tpsit": [
+        7,
+        8,
+        2,
+        2
+      ],
+      "telecomunicazioni": [
+        8,
+        3,
+        3,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 498327,
+    "nome": "Samuele",
+    "cognome": "Marino",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        2,
+        7,
+        2,
+        3
+      ],
+      "storia": [
+        9,
+        8,
+        6,
+        9
+      ],
+      "matematica": [
+        4,
+        7,
+        2,
+        3
+      ],
+      "inglese": [
+        9,
+        6,
+        2,
+        4
+      ],
+      "informatica": [
+        2,
+        8,
+        2,
+        8
+      ],
+      "sistemi": [
+        2,
+        5,
+        4,
+        8
+      ],
+      "tpsit": [
+        2,
+        5,
+        6,
+        5
+      ],
+      "telecomunicazioni": [
+        8,
+        8,
+        8,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 516396,
+    "nome": "Filippo",
+    "cognome": "Greco",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        4,
+        5,
+        6,
+        8
+      ],
+      "storia": [
+        6,
+        2,
+        4,
+        5
+      ],
+      "matematica": [
+        8,
+        7,
+        4,
+        8
+      ],
+      "inglese": [
+        4,
+        8,
+        2,
+        5
+      ],
+      "informatica": [
+        3,
+        6,
+        2,
+        5
+      ],
+      "sistemi": [
+        2,
+        2,
+        7,
+        6
+      ],
+      "tpsit": [
+        4,
+        3,
+        2,
+        5
+      ],
+      "telecomunicazioni": [
+        8,
+        2,
+        5,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 143638,
+    "nome": "Giovanni",
+    "cognome": "Bruno",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        3,
+        9,
+        3,
+        2
+      ],
+      "storia": [
+        8,
+        7,
+        7,
+        5
+      ],
+      "matematica": [
+        2,
+        5,
+        6,
+        2
+      ],
+      "inglese": [
+        8,
+        2,
+        3,
+        6
+      ],
+      "informatica": [
+        4,
+        7,
+        2,
+        2
+      ],
+      "sistemi": [
+        2,
+        7,
+        2,
+        2
+      ],
+      "tpsit": [
+        8,
+        9,
+        3,
+        3
+      ],
+      "telecomunicazioni": [
+        9,
+        8,
+        8,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 223349,
+    "nome": "Federico",
+    "cognome": "Conti",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        2,
+        5,
+        2,
+        8
+      ],
+      "storia": [
+        5,
+        5,
+        4,
+        5
+      ],
+      "matematica": [
+        2,
+        7,
+        5,
+        4
+      ],
+      "inglese": [
+        4,
+        4,
+        6,
+        8
+      ],
+      "informatica": [
+        3,
+        5,
+        5,
+        2
+      ],
+      "sistemi": [
+        2,
+        7,
+        4,
+        6
+      ],
+      "tpsit": [
+        5,
+        8,
+        7,
+        4
+      ],
+      "telecomunicazioni": [
+        8,
+        5,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 590029,
+    "nome": "Luca",
+    "cognome": "De Luca",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        2,
+        2,
+        9,
+        4
+      ],
+      "storia": [
+        5,
+        5,
+        3,
+        2
+      ],
+      "matematica": [
+        6,
+        3,
+        5,
+        5
+      ],
+      "inglese": [
+        3,
+        7,
+        6,
+        8
+      ],
+      "informatica": [
+        6,
+        7,
+        6,
+        2
+      ],
+      "sistemi": [
+        7,
+        6,
+        3,
+        9
+      ],
+      "tpsit": [
+        2,
+        2,
+        7,
+        5
+      ],
+      "telecomunicazioni": [
+        8,
+        8,
+        4,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 321566,
+    "nome": "Stefano",
+    "cognome": "Cairo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        7,
+        7,
+        6,
+        2
+      ],
+      "storia": [
+        8,
+        6,
+        7,
+        7
+      ],
+      "matematica": [
+        3,
+        6,
+        4,
+        7
+      ],
+      "inglese": [
+        9,
+        5,
+        9,
+        7
+      ],
+      "informatica": [
+        8,
+        3,
+        7,
+        5
+      ],
+      "sistemi": [
+        6,
+        2,
+        4,
+        2
+      ],
+      "tpsit": [
+        3,
+        9,
+        2,
+        5
+      ],
+      "telecomunicazioni": [
+        2,
+        9,
+        4,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 302221,
+    "nome": "Marco",
+    "cognome": "Costa",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        5,
+        2,
+        8,
+        4
+      ],
+      "storia": [
+        6,
+        4,
+        5,
+        2
+      ],
+      "matematica": [
+        4,
+        2,
+        8,
+        8
+      ],
+      "inglese": [
+        9,
+        2,
+        3,
+        2
+      ],
+      "informatica": [
+        2,
+        3,
+        2,
+        2
+      ],
+      "sistemi": [
+        6,
+        3,
+        9,
+        7
+      ],
+      "tpsit": [
+        8,
+        7,
+        6,
+        9
+      ],
+      "telecomunicazioni": [
+        2,
+        5,
+        3,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 124682,
+    "nome": "Giacomo",
+    "cognome": "Fontana",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        3,
+        2,
+        8,
+        9
+      ],
+      "storia": [
+        4,
+        6,
+        5,
+        7
+      ],
+      "matematica": [
+        9,
+        5,
+        5,
+        2
+      ],
+      "inglese": [
+        8,
+        5,
+        4,
+        7
+      ],
+      "informatica": [
+        7,
+        2,
+        3,
+        9
+      ],
+      "sistemi": [
+        7,
+        4,
+        2,
+        5
+      ],
+      "tpsit": [
+        2,
+        7,
+        2,
+        5
+      ],
+      "telecomunicazioni": [
+        5,
+        2,
+        9,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 517270,
+    "nome": "Valerio",
+    "cognome": "Esposito",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "storia": [
+        5,
+        2,
+        9,
+        2
+      ],
+      "matematica": [
+        3,
+        5,
+        7,
+        6
+      ],
+      "inglese": [
+        3,
+        2,
+        3,
+        8
+      ],
+      "informatica": [
+        5,
+        9,
+        6,
+        6
+      ],
+      "sistemi": [
+        4,
+        5,
+        9,
+        5
+      ],
+      "tpsit": [
+        2,
+        5,
+        6,
+        7
+      ],
+      "telecomunicazioni": [
+        4,
+        8,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 313052,
+    "nome": "Francesco",
+    "cognome": "Bellanova",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        5,
+        3,
+        4,
+        7
+      ],
+      "storia": [
+        3,
+        4,
+        4,
+        3
+      ],
+      "matematica": [
+        7,
+        2,
+        3,
+        6
+      ],
+      "inglese": [
+        4,
+        2,
+        2,
+        2
+      ],
+      "informatica": [
+        2,
+        3,
+        5,
+        6
+      ],
+      "sistemi": [
+        9,
+        5,
+        7,
+        8
+      ],
+      "tpsit": [
+        6,
+        9,
+        2,
+        2
+      ],
+      "telecomunicazioni": [
+        8,
+        9,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 249128,
+    "nome": "Elia",
+    "cognome": "Toscano",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        2,
+        9,
+        5,
+        3
+      ],
+      "storia": [
+        9,
+        6,
+        9,
+        9
+      ],
+      "matematica": [
+        2,
+        4,
+        8,
+        5
+      ],
+      "inglese": [
+        2,
+        9,
+        6,
+        9
+      ],
+      "informatica": [
+        4,
+        4,
+        7,
+        2
+      ],
+      "sistemi": [
+        2,
+        2,
+        9,
+        6
+      ],
+      "tpsit": [
+        3,
+        8,
+        5,
+        5
+      ],
+      "telecomunicazioni": [
+        7,
+        2,
+        2,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 609073,
+    "nome": "Lorenzo",
+    "cognome": "Lombardo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        5,
+        9,
+        9,
+        3
+      ],
+      "storia": [
+        2,
+        2,
+        3,
+        4
+      ],
+      "matematica": [
+        4,
+        9,
+        6,
+        7
+      ],
+      "inglese": [
+        9,
+        2,
+        2,
+        2
+      ],
+      "informatica": [
+        8,
+        4,
+        2,
+        8
+      ],
+      "sistemi": [
+        5,
+        7,
+        4,
+        9
+      ],
+      "tpsit": [
+        6,
+        2,
+        7,
+        2
+      ],
+      "telecomunicazioni": [
+        7,
+        3,
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "matricola": 539833,
+    "nome": "Leonardo",
+    "cognome": "Campano",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        2,
+        7,
+        3,
+        5
+      ],
+      "storia": [
+        8,
+        2,
+        6,
+        3
+      ],
+      "matematica": [
+        2,
+        2,
+        5,
+        2
+      ],
+      "inglese": [
+        2,
+        6,
+        2,
+        6
+      ],
+      "informatica": [
+        4,
+        8,
+        2,
+        8
+      ],
+      "sistemi": [
+        2,
+        3,
+        9,
+        4
+      ],
+      "tpsit": [
+        8,
+        7,
+        4,
+        8
+      ],
+      "telecomunicazioni": [
+        2,
+        9,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 581407,
+    "nome": "Gabriele",
+    "cognome": "Pugliese",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        5,
+        2,
+        7,
+        2
+      ],
+      "storia": [
+        9,
+        9,
+        3,
+        2
+      ],
+      "matematica": [
+        8,
+        5,
+        2,
+        8
+      ],
+      "inglese": [
+        7,
+        2,
+        4,
+        9
+      ],
+      "informatica": [
+        2,
+        6,
+        2,
+        6
+      ],
+      "sistemi": [
+        2,
+        9,
+        5,
+        8
+      ],
+      "tpsit": [
+        2,
+        9,
+        2,
+        2
+      ],
+      "telecomunicazioni": [
+        5,
+        2,
+        6,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 212270,
+    "nome": "Cristian",
+    "cognome": "Veneto",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        8,
+        6,
+        7,
+        4
+      ],
+      "storia": [
+        2,
+        7,
+        2,
+        3
+      ],
+      "matematica": [
+        6,
+        2,
+        8,
+        5
+      ],
+      "inglese": [
+        3,
+        3,
+        5,
+        4
+      ],
+      "informatica": [
+        2,
+        7,
+        4,
+        7
+      ],
+      "sistemi": [
+        4,
+        4,
+        2,
+        5
+      ],
+      "tpsit": [
+        9,
+        2,
+        8,
+        7
+      ],
+      "telecomunicazioni": [
+        5,
+        2,
+        6,
+        5
+      ]
+    }
+  },
+  {
+    "matricola": 263181,
+    "nome": "Andrea",
+    "cognome": "Calabrese",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        4,
+        2,
+        9,
+        2
+      ],
+      "storia": [
+        8,
+        2,
+        7,
+        7
+      ],
+      "matematica": [
+        8,
+        6,
+        3,
+        2
+      ],
+      "inglese": [
+        2,
+        7,
+        2,
+        8
+      ],
+      "informatica": [
+        2,
+        3,
+        4,
+        2
+      ],
+      "sistemi": [
+        9,
+        2,
+        2,
+        4
+      ],
+      "tpsit": [
+        7,
+        4,
+        2,
+        7
+      ],
+      "telecomunicazioni": [
+        2,
+        7,
+        4,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 635033,
+    "nome": "Giorgio",
+    "cognome": "Siciliano",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        2,
+        3,
+        2,
+        6
+      ],
+      "storia": [
+        5,
+        3,
+        5,
+        5
+      ],
+      "matematica": [
+        9,
+        2,
+        6,
+        7
+      ],
+      "inglese": [
+        4,
+        8,
+        5,
+        9
+      ],
+      "informatica": [
+        2,
+        8,
+        2,
+        4
+      ],
+      "sistemi": [
+        2,
+        8,
+        5,
+        8
+      ],
+      "tpsit": [
+        3,
+        2,
+        5,
+        2
+      ],
+      "telecomunicazioni": [
+        4,
+        9,
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 264490,
+    "nome": "Mattia",
+    "cognome": "Piemontese",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        8,
+        4,
+        2,
+        7
+      ],
+      "storia": [
+        4,
+        8,
+        2,
+        2
+      ],
+      "matematica": [
+        7,
+        2,
+        2,
+        9
+      ],
+      "inglese": [
+        2,
+        7,
+        3,
+        6
+      ],
+      "informatica": [
+        2,
+        4,
+        9,
+        3
+      ],
+      "sistemi": [
+        8,
+        2,
+        2,
+        7
+      ],
+      "tpsit": [
+        2,
+        6,
+        4,
+        6
+      ],
+      "telecomunicazioni": [
+        2,
+        7,
+        2,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 141606,
+    "nome": "Daniele",
+    "cognome": "Sardo",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        4,
+        9,
+        9,
+        4
+      ],
+      "storia": [
+        7,
+        4,
+        2,
+        7
+      ],
+      "matematica": [
+        4,
+        8,
+        5,
+        2
+      ],
+      "inglese": [
+        3,
+        8,
+        6,
+        4
+      ],
+      "informatica": [
+        9,
+        6,
+        3,
+        3
+      ],
+      "sistemi": [
+        6,
+        8,
+        6,
+        8
+      ],
+      "tpsit": [
+        7,
+        2,
+        4,
+        3
+      ],
+      "telecomunicazioni": [
+        7,
+        3,
+        2,
+        7
+      ]
+    }
+  },
+  {
+    "matricola": 153949,
+    "nome": "Alessandro",
+    "cognome": "Marchigiano",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        4,
+        2,
+        5,
+        3
+      ],
+      "storia": [
+        9,
+        6,
+        2,
+        6
+      ],
+      "matematica": [
+        2,
+        4,
+        7,
+        6
+      ],
+      "inglese": [
+        2,
+        9,
+        7,
+        8
+      ],
+      "informatica": [
+        2,
+        8,
+        2,
+        9
+      ],
+      "sistemi": [
+        2,
+        6,
+        9,
+        9
+      ],
+      "tpsit": [
+        9,
+        6,
+        2,
+        2
+      ],
+      "telecomunicazioni": [
+        4,
+        7,
+        3,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 586611,
+    "nome": "Marco",
+    "cognome": "Fabbri",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        2,
+        2,
+        7,
+        2
+      ],
+      "storia": [
+        2,
+        2,
+        7,
+        2
+      ],
+      "matematica": [
+        2,
+        8,
+        4,
+        2
+      ],
+      "inglese": [
+        6,
+        2,
+        2,
+        8
+      ],
+      "informatica": [
+        4,
+        7,
+        2,
+        7
+      ],
+      "sistemi": [
+        4,
+        2,
+        6,
+        7
+      ],
+      "tpsit": [
+        8,
+        6,
+        3,
+        2
+      ],
+      "telecomunicazioni": [
+        2,
+        7,
+        8,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 140632,
+    "nome": "Andrea",
+    "cognome": "Ferrari",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        3,
+        7,
+        6,
+        6
+      ],
+      "storia": [
+        2,
+        6,
+        2,
+        4
+      ],
+      "matematica": [
+        8,
+        5,
+        7,
+        6
+      ],
+      "inglese": [
+        2,
+        2,
+        4,
+        7
+      ],
+      "informatica": [
+        2,
+        2,
+        6,
+        2
+      ],
+      "sistemi": [
+        8,
+        2,
+        3,
+        2
+      ],
+      "tpsit": [
+        4,
+        8,
+        2,
+        5
+      ],
+      "telecomunicazioni": [
+        6,
+        4,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 533108,
+    "nome": "Lorenzo",
+    "cognome": "Rossi (rosso)",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        2,
+        2,
+        3,
+        2
+      ],
+      "storia": [
+        8,
+        9,
+        3,
+        4
+      ],
+      "matematica": [
+        2,
+        2,
+        5,
+        2
+      ],
+      "inglese": [
+        8,
+        8,
+        2,
+        2
+      ],
+      "informatica": [
+        4,
+        3,
+        2,
+        3
+      ],
+      "sistemi": [
+        5,
+        7,
+        2,
+        5
+      ],
+      "tpsit": [
+        8,
+        2,
+        7,
+        2
+      ],
+      "telecomunicazioni": [
+        9,
+        3,
+        9,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 364115,
+    "nome": "Francesco",
+    "cognome": "Bianchi (bianco)",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        6,
+        2,
+        9,
+        9
+      ],
+      "storia": [
+        2,
+        2,
+        2,
+        9
+      ],
+      "matematica": [
+        6,
+        2,
+        5,
+        6
+      ],
+      "inglese": [
+        5,
+        8,
+        4,
+        2
+      ],
+      "informatica": [
+        4,
+        3,
+        2,
+        7
+      ],
+      "sistemi": [
+        6,
+        2,
+        2,
+        2
+      ],
+      "tpsit": [
+        2,
+        8,
+        4,
+        2
+      ],
+      "telecomunicazioni": [
+        9,
+        2,
+        9,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 600319,
+    "nome": "Matteo",
+    "cognome": "Barbieri",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        4,
+        7,
+        2,
+        6
+      ],
+      "storia": [
+        2,
+        6,
+        5,
+        6
+      ],
+      "matematica": [
+        4,
+        3,
+        6,
+        3
+      ],
+      "inglese": [
+        3,
+        2,
+        6,
+        2
+      ],
+      "informatica": [
+        9,
+        2,
+        3,
+        2
+      ],
+      "sistemi": [
+        6,
+        2,
+        2,
+        2
+      ],
+      "tpsit": [
+        5,
+        2,
+        7,
+        6
+      ],
+      "telecomunicazioni": [
+        2,
+        2,
+        5,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 324736,
+    "nome": "Luca",
+    "cognome": "Sartori",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        5,
+        5,
+        2,
+        5
+      ],
+      "storia": [
+        4,
+        9,
+        2,
+        6
+      ],
+      "matematica": [
+        8,
+        2,
+        9,
+        5
+      ],
+      "inglese": [
+        4,
+        8,
+        9,
+        5
+      ],
+      "informatica": [
+        2,
+        5,
+        8,
+        2
+      ],
+      "sistemi": [
+        2,
+        2,
+        2,
+        8
+      ],
+      "tpsit": [
+        6,
+        5,
+        9,
+        2
+      ],
+      "telecomunicazioni": [
+        2,
+        5,
+        8,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 399732,
+    "nome": "Daniele",
+    "cognome": "Fattori",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        7,
+        2,
+        6,
+        5
+      ],
+      "storia": [
+        2,
+        2,
+        2,
+        7
+      ],
+      "matematica": [
+        9,
+        9,
+        2,
+        2
+      ],
+      "inglese": [
+        6,
+        5,
+        4,
+        8
+      ],
+      "informatica": [
+        4,
+        2,
+        2,
+        8
+      ],
+      "sistemi": [
+        5,
+        5,
+        3,
+        3
+      ],
+      "tpsit": [
+        2,
+        3,
+        2,
+        4
+      ],
+      "telecomunicazioni": [
+        7,
+        4,
+        8,
+        4
+      ]
+    }
+  },
+  {
+    "matricola": 445191,
+    "nome": "Gabriele",
+    "cognome": "Molinari",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        7,
+        9,
+        9,
+        9
+      ],
+      "storia": [
+        3,
+        5,
+        8,
+        2
+      ],
+      "matematica": [
+        2,
+        2,
+        5,
+        8
+      ],
+      "inglese": [
+        6,
+        8,
+        8,
+        2
+      ],
+      "informatica": [
+        2,
+        6,
+        8,
+        3
+      ],
+      "sistemi": [
+        5,
+        8,
+        9,
+        9
+      ],
+      "tpsit": [
+        3,
+        7,
+        7,
+        4
+      ],
+      "telecomunicazioni": [
+        6,
+        3,
+        6,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 160250,
+    "nome": "Riccardo",
+    "cognome": "Fornari",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        3,
+        6,
+        7,
+        3
+      ],
+      "storia": [
+        3,
+        8,
+        7,
+        5
+      ],
+      "matematica": [
+        5,
+        6,
+        3,
+        6
+      ],
+      "inglese": [
+        4,
+        4,
+        7,
+        2
+      ],
+      "informatica": [
+        3,
+        2,
+        9,
+        3
+      ],
+      "sistemi": [
+        9,
+        2,
+        3,
+        2
+      ],
+      "tpsit": [
+        6,
+        9,
+        6,
+        9
+      ],
+      "telecomunicazioni": [
+        8,
+        4,
+        3,
+        2
+      ]
+    }
+  },
+  {
+    "matricola": 242497,
+    "nome": "Andrea",
+    "cognome": "Pastori",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        3,
+        4,
+        2,
+        8
+      ],
+      "storia": [
+        7,
+        2,
+        5,
+        5
+      ],
+      "matematica": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "inglese": [
+        7,
+        7,
+        2,
+        2
+      ],
+      "informatica": [
+        6,
+        2,
+        8,
+        2
+      ],
+      "sistemi": [
+        2,
+        3,
+        7,
+        4
+      ],
+      "tpsit": [
+        9,
+        7,
+        6,
+        8
+      ],
+      "telecomunicazioni": [
+        6,
+        7,
+        2,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 165270,
+    "nome": "Alex",
+    "cognome": "Rossi (rosso)",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        9,
+        5,
+        8,
+        6
+      ],
+      "storia": [
+        8,
+        9,
+        2,
+        2
+      ],
+      "matematica": [
+        8,
+        2,
+        2,
+        8
+      ],
+      "inglese": [
+        8,
+        8,
+        9,
+        7
+      ],
+      "informatica": [
+        7,
+        4,
+        5,
+        3
+      ],
+      "sistemi": [
+        9,
+        9,
+        9,
+        7
+      ],
+      "tpsit": [
+        2,
+        2,
+        7,
+        9
+      ],
+      "telecomunicazioni": [
+        2,
+        2,
+        2,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 289272,
+    "nome": "Samuele",
+    "cognome": "Bianchi (bianco)",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        2,
+        6,
+        7,
+        4
+      ],
+      "storia": [
+        3,
+        8,
+        3,
+        3
+      ],
+      "matematica": [
+        2,
+        8,
+        2,
+        8
+      ],
+      "inglese": [
+        2,
+        8,
+        6,
+        2
+      ],
+      "informatica": [
+        2,
+        9,
+        6,
+        9
+      ],
+      "sistemi": [
+        6,
+        6,
+        8,
+        7
+      ],
+      "tpsit": [
+        6,
+        9,
+        5,
+        6
+      ],
+      "telecomunicazioni": [
+        3,
+        4,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 609863,
+    "nome": "Daniele",
+    "cognome": "Nero",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        2,
+        6,
+        2,
+        4
+      ],
+      "storia": [
+        9,
+        9,
+        6,
+        2
+      ],
+      "matematica": [
+        7,
+        4,
+        6,
+        8
+      ],
+      "inglese": [
+        3,
+        9,
+        2,
+        2
+      ],
+      "informatica": [
+        2,
+        6,
+        8,
+        3
+      ],
+      "sistemi": [
+        6,
+        4,
+        7,
+        4
+      ],
+      "tpsit": [
+        2,
+        8,
+        2,
+        2
+      ],
+      "telecomunicazioni": [
+        6,
+        2,
+        3,
+        3
+      ]
+    }
+  },
+  {
+    "matricola": 301546,
+    "nome": "Marco",
+    "cognome": "Bruno",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        4,
+        5,
+        8,
+        9
+      ],
+      "storia": [
+        6,
+        5,
+        9,
+        8
+      ],
+      "matematica": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "inglese": [
+        2,
+        2,
+        9,
+        2
+      ],
+      "informatica": [
+        4,
+        8,
+        6,
+        3
+      ],
+      "sistemi": [
+        9,
+        2,
+        7,
+        2
+      ],
+      "tpsit": [
+        2,
+        9,
+        3,
+        2
+      ],
+      "telecomunicazioni": [
+        6,
+        9,
+        9,
+        5
+      ]
+    }
+  },
+  {
+    "matricola": 385770,
+    "nome": "Mattia",
+    "cognome": "Biondi",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        2,
+        4,
+        9,
+        5
+      ],
+      "storia": [
+        7,
+        2,
+        6,
+        8
+      ],
+      "matematica": [
+        5,
+        2,
+        6,
+        8
+      ],
+      "inglese": [
+        9,
+        5,
+        5,
+        2
+      ],
+      "informatica": [
+        6,
+        6,
+        7,
+        2
+      ],
+      "sistemi": [
+        2,
+        3,
+        2,
+        4
+      ],
+      "tpsit": [
+        6,
+        2,
+        6,
+        2
+      ],
+      "telecomunicazioni": [
+        2,
+        2,
+        8,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 404797,
+    "nome": "Gabriele",
+    "cognome": "Ricci",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "5CII",
+    "voti": {
+      "italiano": [
+        2,
+        7,
+        5,
+        8
+      ],
+      "storia": [
+        9,
+        5,
+        4,
+        3
+      ],
+      "matematica": [
+        2,
+        2,
+        2,
+        9
+      ],
+      "inglese": [
+        5,
+        9,
+        2,
+        3
+      ],
+      "informatica": [
+        7,
+        9,
+        9,
+        2
+      ],
+      "sistemi": [
+        2,
+        5,
+        6,
+        8
+      ],
+      "tpsit": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "telecomunicazioni": [
+        8,
+        6,
+        4,
+        6
+      ]
+    }
+  },
+  {
+    "matricola": 543824,
+    "nome": "Valentina",
+    "cognome": "Lombardi",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        2,
+        3,
+        8,
+        2
+      ],
+      "storia": [
+        2,
+        2,
+        2,
+        7
+      ],
+      "matematica": [
+        5,
+        2,
+        3,
+        3
+      ],
+      "inglese": [
+        6,
+        2,
+        5,
+        2
+      ],
+      "informatica": [
+        8,
+        2,
+        6,
+        7
+      ],
+      "sistemi": [
+        6,
+        9,
+        2,
+        5
+      ],
+      "tpsit": [
+        9,
+        7,
+        9,
+        5
+      ],
+      "telecomunicazioni": [
+        2,
+        6,
+        7,
+        9
+      ]
+    }
+  },
+  {
+    "matricola": 526284,
+    "nome": "Asia",
+    "cognome": "Mancini",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "4CII",
+    "voti": {
+      "italiano": [
+        9,
+        7,
+        7,
+        3
+      ],
+      "storia": [
+        7,
+        2,
+        8,
+        2
+      ],
+      "matematica": [
+        2,
+        9,
+        2,
+        6
+      ],
+      "inglese": [
+        6,
+        3,
+        8,
+        2
+      ],
+      "informatica": [
+        5,
+        8,
+        3,
+        7
+      ],
+      "sistemi": [
+        2,
+        3,
+        2,
+        9
+      ],
+      "tpsit": [
+        8,
+        2,
+        5,
+        2
+      ],
+      "telecomunicazioni": [
+        2,
+        2,
+        5,
+        8
+      ]
+    }
+  },
+  {
+    "matricola": 645449,
+    "nome": "Sofia",
+    "cognome": "Marino",
+    "dataNascita": "0001-01-01T00:00:00",
+    "luogoNascita": null,
+    "classe": "3CII",
+    "voti": {
+      "italiano": [
+        9,
+        2,
+        4,
+        2
+      ],
+      "storia": [
+        4,
+        2,
+        2,
+        4
+      ],
+      "matematica": [
+        7,
+        5,
+        5,
+        3
+      ],
+      "inglese": [
+        8,
+        5,
+        5,
+        2
+      ],
+      "informatica": [
+        9,
+        2,
+        9,
+        5
+      ],
+      "sistemi": [
+        2,
+        3,
+        7,
+        7
+      ],
+      "tpsit": [
+        8,
+        7,
+        2,
+        5
+      ],
+      "telecomunicazioni": [
+        4,
+        9,
+        5,
+        2
+      ]
+    }
+  }
+]

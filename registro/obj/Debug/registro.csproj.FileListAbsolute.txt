@@ -1,0 +1,13 @@
+C:\Users\chris\OneDrive\Desktop\School\CS\registro\registro\bin\Debug\registro.exe.config
+C:\Users\chris\OneDrive\Desktop\School\CS\registro\registro\bin\Debug\registro.exe
+C:\Users\chris\OneDrive\Desktop\School\CS\registro\registro\bin\Debug\registro.pdb
+C:\Users\chris\OneDrive\Desktop\School\CS\registro\registro\obj\Debug\registro.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\School\CS\registro\registro\obj\Debug\registro.Form1.resources
+C:\Users\chris\OneDrive\Desktop\School\CS\registro\registro\obj\Debug\registro.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\School\CS\registro\registro\obj\Debug\registro.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\School\CS\registro\registro\obj\Debug\registro.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\School\CS\registro\registro\obj\Debug\registro.exe
+C:\Users\chris\OneDrive\Desktop\School\CS\registro\registro\obj\Debug\registro.pdb
+C:\Users\chris\OneDrive\Desktop\School\CS\registro\registro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\OneDrive\Desktop\School\CS\registro\registro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\OneDrive\Desktop\School\CS\registro\registro\obj\Debug\registro.csproj.Up2Date

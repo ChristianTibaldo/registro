@@ -1,0 +1,52 @@
+[
+    {
+        "matricola": 111110,
+        "nome": "Alberto",
+        "cognome": "Costa"
+    },
+    {
+        "matricola": 395872,
+        "nome": "Michele",
+        "cognome": "Amitrano"
+    },
+    {
+        "matricola": 139412,
+        "nome": "Dario",
+        "cognome": "Franceschini"
+    },
+    {
+        "matricola": 120486,
+        "nome": "Piero",
+        "cognome": "Parrocchia"
+    },
+    {
+        "matricola": 869352,
+        "nome": "Moe",
+        "cognome": "Lester"
+    },
+    {
+        "matricola": 294221,
+        "nome": "Herbert",
+        "cognome": "Woods"
+    },
+    {
+        "matricola": 590911,
+        "nome": "Lucas",
+        "cognome": "Spatola"
+    },
+    {
+        "matricola": 345186,
+        "nome": "Giacomo",
+        "cognome": "Giacomini"
+    },
+    {
+        "matricola": 245245,
+        "nome": "Kanye",
+        "cognome": "East"
+    },
+    {
+        "matricola": 869352,
+        "nome": "Michael",
+        "cognome": "Myers"
+    }
+]

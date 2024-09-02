@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\OneDrive\\Desktop\\School\\CS\\registro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D8E76-4791-4A46-9701-B7CC3513B7D7}|registro\\registro.csproj|C:\\Users\\chris\\OneDrive\\Desktop\\School\\CS\\registro\\registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D8E76-4791-4A46-9701-B7CC3513B7D7}|registro\\registro.csproj|solutionrelative:registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D8E76-4791-4A46-9701-B7CC3513B7D7}|registro\\registro.csproj|c:\\users\\chris\\onedrive\\desktop\\school\\cs\\registro\\registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D69D8E76-4791-4A46-9701-B7CC3513B7D7}|registro\\registro.csproj|solutionrelative:registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D8E76-4791-4A46-9701-B7CC3513B7D7}|registro\\registro.csproj|C:\\Users\\chris\\OneDrive\\Desktop\\School\\CS\\registro\\registro\\studenti.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D69D8E76-4791-4A46-9701-B7CC3513B7D7}|registro\\registro.csproj|solutionrelative:registro\\studenti.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D8E76-4791-4A46-9701-B7CC3513B7D7}|registro\\registro.csproj|C:\\Users\\chris\\OneDrive\\Desktop\\School\\CS\\registro\\registro\\docenti.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D69D8E76-4791-4A46-9701-B7CC3513B7D7}|registro\\registro.csproj|solutionrelative:registro\\docenti.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69D8E76-4791-4A46-9701-B7CC3513B7D7}|registro\\registro.csproj|C:\\Users\\chris\\OneDrive\\Desktop\\School\\CS\\registro\\registro\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69D8E76-4791-4A46-9701-B7CC3513B7D7}|registro\\registro.csproj|solutionrelative:registro\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Desktop\\School\\CS\\registro\\registro\\Form1.cs",
+              "RelativeDocumentMoniker": "registro\\Form1.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Desktop\\School\\CS\\registro\\registro\\Form1.cs",
+              "RelativeToolTip": "registro\\Form1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAzwDIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:05:49.338Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Desktop\\School\\CS\\registro\\registro\\Form1.cs",
+              "RelativeDocumentMoniker": "registro\\Form1.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Desktop\\School\\CS\\registro\\registro\\Form1.cs [Design]",
+              "RelativeToolTip": "registro\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T02:22:32.62Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Desktop\\School\\CS\\registro\\registro\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "registro\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Desktop\\School\\CS\\registro\\registro\\Form1.Designer.cs",
+              "RelativeToolTip": "registro\\Form1.Designer.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAwwIsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:06:16.333Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docenti.json",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Desktop\\School\\CS\\registro\\registro\\docenti.json",
+              "RelativeDocumentMoniker": "registro\\docenti.json",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Desktop\\School\\CS\\registro\\registro\\docenti.json",
+              "RelativeToolTip": "registro\\docenti.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T07:00:52.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "studenti.json",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Desktop\\School\\CS\\registro\\registro\\studenti.json",
+              "RelativeDocumentMoniker": "registro\\studenti.json",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Desktop\\School\\CS\\registro\\registro\\studenti.json",
+              "RelativeToolTip": "registro\\studenti.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T06:44:05.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
